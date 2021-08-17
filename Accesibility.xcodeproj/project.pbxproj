@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		801C69E226CC803300107CF3 /* ReadingTheValueOfControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801C69E126CC803300107CF3 /* ReadingTheValueOfControls.swift */; };
 		80F7E32026C9A9D30024E46A /* AccesibilityApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80F7E31F26C9A9D30024E46A /* AccesibilityApp.swift */; };
 		80F7E32226C9A9D30024E46A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80F7E32126C9A9D30024E46A /* ContentView.swift */; };
 		80F7E32426C9A9D30024E46A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80F7E32326C9A9D30024E46A /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		801C69E126CC803300107CF3 /* ReadingTheValueOfControls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingTheValueOfControls.swift; sourceTree = "<group>"; };
 		80F7E31C26C9A9D30024E46A /* Accesibility.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Accesibility.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80F7E31F26C9A9D30024E46A /* AccesibilityApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccesibilityApp.swift; sourceTree = "<group>"; };
 		80F7E32126C9A9D30024E46A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 			children = (
 				80F7E32F26C9AAC30024E46A /* IdentifyingViewWithLabels.swift */,
 				80F7E33126CB28C60024E46A /* HidingAndGroupingAccesibilityData.swift */,
+				801C69E126CC803300107CF3 /* ReadingTheValueOfControls.swift */,
 			);
 			path = Theory;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				80F7E33026C9AAC30024E46A /* IdentifyingViewWithLabels.swift in Sources */,
 				80F7E32226C9A9D30024E46A /* ContentView.swift in Sources */,
 				80F7E33226CB28C60024E46A /* HidingAndGroupingAccesibilityData.swift in Sources */,
+				801C69E226CC803300107CF3 /* ReadingTheValueOfControls.swift in Sources */,
 				80F7E32026C9A9D30024E46A /* AccesibilityApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
